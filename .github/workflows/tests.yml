@@ -29,3 +29,4 @@ jobs:
       - name: Run automated tests
         run: |
           python -m pytest tests/ --browser chromium -v
+          
